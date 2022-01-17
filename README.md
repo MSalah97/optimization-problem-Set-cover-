@@ -1,4 +1,4 @@
-# optimization-problem-Set-cover
+# Optimization-problem-Set-cover
 
 Given a geographic region(suppose that the region is divided in a grid composed of 30 squares),and we know the points where alarm sirens could be installed(suppose that they are from 0 to 10 points ,the installation cost is given for each point. Determine the minimum cost solution until the whole region be covered with the sirens .
 
